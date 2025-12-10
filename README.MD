@@ -1,4 +1,3 @@
----
 
 # **Transaction Ledger Service**
 
@@ -77,5 +76,4 @@ Each transaction is:
 | Containerization | Docker Compose         |
 | Utility          | Lombok                 |
 
----
 
